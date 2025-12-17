@@ -6,10 +6,10 @@
         // Format: 'keyword': 'your-post-url'
 'Sunny Leone': '/2015/04/paani-wala-dance-sunny-leone.html',
 'Yo Yo Honey Singh': '/2015/03/honey-singh-one-bottle-down.html',
-'OST': '/2015/03/dil-ka-kya-rung-karun-ost.html',
-'OST': '/2015/03/aye-zindagi-ost-qb-drama.html',
-'OST': '/2015/03/dil-e-barbad-ost-song.html',
-'OST': '/2015/03/tum-se-mil-kay-ost-song.html',
+'Dil Ka': '/2015/03/dil-ka-kya-rung-karun-ost.html',
+'Zindagi': '/2015/03/aye-zindagi-ost-qb-drama.html',
+'Barbad': '/2015/03/dil-e-barbad-ost-song.html',
+'Tum Se Mil': '/2015/03/tum-se-mil-kay-ost-song.html',
 'Arijit Singh': '/2015/03/janib-arijit-singh-songs.html',
 'Sunny Leone': '/2015/03/khuda-bhi-leela-sunny.html',
 'Atif Aslam': '/2015/03/jeena-tere-bina-badlapur-atif.html',
@@ -339,4 +339,5 @@
     document.head.appendChild(style);
 
 })();
+
 
