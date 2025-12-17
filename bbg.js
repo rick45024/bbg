@@ -177,7 +177,7 @@
 'Shrey Singhal': '/2014/02/hamqadam-shrey-singhal-mp3.html',
 'Gajendra Verma': '/2014/02/saajna-re-song-gajendra-verma.html',
 'Yo Yo Honey Singh': '/2014/02/chaar-bottle-vodka-honeysingh.html',
-'Queen Movie': '/2014/01/kinare-queen-movie-songs.html',
+'Queen': '/2014/01/kinare-queen-movie-songs.html',
 'Shaadi Ke Side Effects': '/2014/01/tumse-pyar-ho-gaya-shaadi-side-effects.html',
 'Dhoom 3': '/2014/01/kamli-dhoom3-mp3-song.html',
 'Heartless': '/2014/01/ishq-khuda-heartless-movie.html',
@@ -194,8 +194,8 @@
 'Bilal Saeed': '/2014/01/choothi-bilal-saeed-waqar-mp3.html',
 'Diljit Dosanjh': '/2014/01/diljit-soorma-song-mp3.html',
 'Gunday': '/2014/01/saaiyaan-gunday-songs.html',
-'A R Rahman': '/2014/01/pataka-guddi-ar-rahman.html',
-'Queen Movie': '/2014/01/london-thumakda-queen-movie.html',
+'Rahman': '/2014/01/pataka-guddi-ar-rahman.html',
+'Queen': '/2014/01/london-thumakda-queen-movie.html',
 'Hasee Toh Phasee': '/2014/01/manchala-hasee-toh-phasee.html',
 'Hasee Toh Phasee': '/2014/01/zehnaseeb-hasee-toh-phasee.html',
 'KK': '/2014/01/tere-bin-ho-na-sakega-gujara-kk.html',
@@ -213,7 +213,7 @@
 'Hasee Toh Phasee': '/2013/12/hasee-toh-phasee-drama-queen.html',
 'Karle Pyaar Karle': '/2013/12/tanhaai-karle-pyaar-karle-movie.html',
 'Jai Ho': '/2013/12/baaki-sab-first-class-jai-ho.html',
-'Ishq Bector': '/2013/12/mere-siva-ishq-bector.html'
+'Ishq': '/2013/12/mere-siva-ishq-bector.html'
     };
 
     // Settings
@@ -339,3 +339,4 @@
     document.head.appendChild(style);
 
 })();
+
