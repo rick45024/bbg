@@ -1,6 +1,3 @@
-<script type='text/javascript'>
-//<![CDATA[
-// Blogger Auto Internal Linking Script
 (function() {
     'use strict';
     
@@ -342,5 +339,3 @@
     document.head.appendChild(style);
 
 })();
-//]]>
-</script>
