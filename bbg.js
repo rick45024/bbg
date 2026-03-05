@@ -48,7 +48,6 @@
 'Honey Singh': '/2014/04/ice-cream-khaungi-honey-singh.html',
 'Arijit Singh': '/2014/02/suno-na-sangemarmar-arijit-singh.html',
 'Honey Singh': '/2014/02/chaar-bottle-vodka-honeysingh.html',
-'Arijit Singh': '/2014/01/main-dhoondne-ko-heartless-arijit.html',
 'Raftaar': '/2014/01/gucci-armani-raftaar-song.html',
 'Ammy Virk': '/2014/01/adhoore-chaa-ammy-virk-mp3.html',
 'Diljit Dosanjh': '/2014/01/diljit-soorma-song-mp3.html',
@@ -339,5 +338,6 @@
     document.head.appendChild(style);
 
 })();
+
 
 
